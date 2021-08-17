@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\obj\Debug\netcoreapp3.1\genericDemo.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\obj\Debug\netcoreapp3.1\genericDemo.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\obj\Debug\netcoreapp3.1\genericDemo.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\obj\Debug\netcoreapp3.1\genericDemo.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\bin\Debug\netcoreapp3.1\genericDemo.exe
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\bin\Debug\netcoreapp3.1\genericDemo.deps.json
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\bin\Debug\netcoreapp3.1\genericDemo.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\bin\Debug\netcoreapp3.1\genericDemo.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\bin\Debug\netcoreapp3.1\genericDemo.dll
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\bin\Debug\netcoreapp3.1\genericDemo.pdb
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\obj\Debug\netcoreapp3.1\genericDemo.dll
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\obj\Debug\netcoreapp3.1\genericDemo.pdb
+C:\Users\prakash kandula\source\repos\genericDemo\genericDemo\obj\Debug\netcoreapp3.1\genericDemo.genruntimeconfig.cache
